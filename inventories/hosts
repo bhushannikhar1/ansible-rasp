@@ -1,0 +1,3 @@
+
+[net1]
+localhost ansible_host=192.168.0.12 ansible_user=pi
